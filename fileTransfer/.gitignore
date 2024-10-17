@@ -1,0 +1,41 @@
+# Eclipse specific files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Java build output directories
+target/
+out/
+build/
+
+# Compiled class files
+*.class
+
+# Logs and temporary files
+*.log
+*.DS_Store
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+target/
+
+# Gradle specific files
+.gradle/
+build/
+
+# IDE settings
+.idea/
+*.iml
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
