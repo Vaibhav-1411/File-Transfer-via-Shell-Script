@@ -16,7 +16,6 @@ public class LocalToLocal {
 		// Specify the absolute destination file path
 		String destinationDir = "C:\\Users\\VaibhavGupta\\eclipse-workspace\\fileTransfer\\src\\main\\transfered Files\\NewFile.txt";
 																																		
-
 		transferFile(logDir, sourceFile, destinationDir);
 	}
 
