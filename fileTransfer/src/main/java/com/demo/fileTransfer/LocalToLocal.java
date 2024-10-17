@@ -14,6 +14,7 @@ public class LocalToLocal {
 		String sourceFile = "C:\\Users\\VaibhavGupta\\eclipse-workspace\\fileTransfer\\src\\main\\old File\\oldFile.txt";
 	
 		// Specify the absolute destination file path
+		// logic to 
 		String destinationDir = "C:\\Users\\VaibhavGupta\\eclipse-workspace\\fileTransfer\\src\\main\\transfered Files\\NewFile.txt";
 																																		
 		transferFile(logDir, sourceFile, destinationDir);
